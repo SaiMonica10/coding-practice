@@ -5,6 +5,6 @@ for i in str(n):
     a += int(i) ** l
 
 if a == n:
-    print("yes")
+    print(n,"yes")
 else:
-    print("No")
+    print(n,"No")
